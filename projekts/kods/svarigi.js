@@ -1,0 +1,1 @@
+console.log("Dzeive ir naīdūmojama bez GIT.")
